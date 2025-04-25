@@ -1,6 +1,12 @@
 ---
 title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+description: This page was built using the Blowfish theme for Hugo.
+tags:
+date: 1989-06-04T00:00:00.000
+draft: false
+categories:
+lastmod: 2025-04-25T23:34:47.755741
+
 ---
 
 
@@ -12,3 +18,5 @@ description: "This page was built using the Blowfish theme for Hugo."
     <span class="prose dark:prose-invert">Website under construction!</span>
   </span>
 </div>
+
+# test
